@@ -1,3 +1,10 @@
+![image](https://github.com/user-attachments/assets/7a84f0ee-4942-4f4f-b2ec-ecee2a6de338)
+![image](https://github.com/user-attachments/assets/127dc9cd-eb55-46db-88fb-4678b7a40d08)
+![image](https://github.com/user-attachments/assets/8bdc1554-ea44-4a17-b707-4f50c2c103f0)
+![image](https://github.com/user-attachments/assets/6e49109d-718c-45d2-8bd9-2d20c3509e5a)
+
+
+
 # Todo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
